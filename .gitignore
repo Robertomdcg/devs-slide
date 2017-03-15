@@ -9,8 +9,10 @@ build.xml
 manifest.mf
 *.log
 *.log.*
+*.o
+DevsSlide
 .project
 .cproject
 Debug*
 
-/DCSim - Debug/
+/DevsSlide - Debug/
